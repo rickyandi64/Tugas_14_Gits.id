@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Data Mahasiswa dan Kampus </string>
+    <string name="judul">Data Mahasiswa dan Kampus</string>
+    <string name="data_mahasiswa">Data Mahasiswa</string>
+    <string name="data_universitas">Data Universitas</string>
+    <string name="dial_phone">Nomor Telepon Universitas</string>
+    <string name="browser">Menuju Website Universitas</string>
+    <string name="browser2">Menuju Website Jurusan</string>
+    <string name="new_activity">Nama : Ricky Andi Kurniawan \nAsal Kampus: Universitas Internasional Batam\nSemester : Lima\nJurusan : Sistem Informasi\nJenis Kelamin: Laki Laki\nTempat,Tanggal Lahir: Batam 02 Juli 2000</string>
+
+
+</resources>
